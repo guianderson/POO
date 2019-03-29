@@ -20,7 +20,7 @@ public class Ex5 {
 		
 		total = comis + sal_p_semana;
 		
-                System.out.printf("Valor das Vendas: %f\n Valor da comissão: %f\n Total a receber: %f\n", (vendas), (comis), (total));
+                System.out.printf("Valor das Vendas: %.1f\n Valor da comissão: %.1f\n Total a receber: %.1f\n", (vendas), (comis), (total));
 		
 	}
 }
